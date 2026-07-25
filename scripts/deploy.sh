@@ -7,5 +7,5 @@ docker rm cicd-demo || true
 
 docker run -d \
     --name cicd-demo \
-    -p 8000:8000 \
+    -p 8088:8000 \
     ${IMAGE}
