@@ -1,5 +1,5 @@
 def hello():
-    return "Hello Jenkins"
+    return "Hello Jenkins Version 2"
 
 
 if __name__ == "__main__":
